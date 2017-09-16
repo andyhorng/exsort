@@ -1,13 +1,12 @@
 exsort
 ======
 
------
+Introduction
+------------
 
-.. contents:: **Table of Contents**
-
-    I found Python doesn't have a convenient module to sort huge list that 
-    is unable to fit in memory.
-
+I found Python doesn't have a convenient module to sort huge list that is 
+unable to fit in memory.
+    
 
 Installation
 ------------
