@@ -4,7 +4,10 @@ exsort
 -----
 
 .. contents:: **Table of Contents**
-    :backlinks: none
+
+    I found Python doesn't have a convenient module to sort huge list that 
+    is unable to fit in memory.
+
 
 Installation
 ------------
