@@ -23,10 +23,13 @@ setup(
     maintainer='Andy Hung',
     maintainer_email='andyhorng168@gmail.com',
     url='https://github.com/andyhorng/exsort',
+    download_url='https://github.com/andyhorng/exsort/archive/0.1.tar.gz',
     license='MIT',
 
     keywords=[
-        '',
+        'external sorting',
+        'sorting',
+        'utility'
     ],
 
     classifiers=[
